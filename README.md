@@ -9,11 +9,6 @@ machine-learning redshift estimation”
 Authors: Istvan I. Racz, Natalia Markus, Istvan Horvath,
 and Zsolt Bagoly.
 
-## Contents
-
-- `reference_redshifts.csv`: GRB coordinatea, spectroscopic
-  reference redshifts.
-  
 ## Sample
 
 This dataset contains the 329 GRBs used for regression training
