@@ -11,14 +11,13 @@ and Zsolt Bagoly.
 
 ## Contents
 
-- `reference_redshifts.csv`: GRB identifiers, spectroscopic
+- `reference_redshifts.csv`: GRB coordinate, spectroscopic
   reference redshifts.
 
 ## Columns
 
-- `grb_id`: GRB identifier.
+- `ra and dec`: GRB coordinate.
 - `z`: spectroscopic reference redshift.
-- `reference`: source of the redshift determination.
 
 ## Scope
 
