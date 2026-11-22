@@ -27,7 +27,6 @@ measurement, and a first XRT observation starting less than
 - `ra_deg`: BAT right ascension (J2000), in degrees.
 - `dec_deg`: BAT declination (J2000), in degrees.
 - `z`: spectroscopic reference redshift.
-- 
 
 ## Scope
 
