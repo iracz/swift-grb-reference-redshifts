@@ -13,11 +13,21 @@ and Zsolt Bagoly.
 
 - `reference_redshifts.csv`: GRB coordinatea, spectroscopic
   reference redshifts.
+  
+## Sample
+
+This dataset contains the 329 GRBs used for regression training
+and cross-validation in the accompanying article. Each event has
+a verified spectroscopic reference redshift, an available BAT T90
+measurement, and a first XRT observation starting less than
+200 seconds after the trigger.
 
 ## Columns
 
-- `ra and dec`: GRB coordinates.
+- `ra_deg`: BAT right ascension (J2000), in degrees.
+- `dec_deg`: BAT declination (J2000), in degrees.
 - `z`: spectroscopic reference redshift.
+- 
 
 ## Scope
 
