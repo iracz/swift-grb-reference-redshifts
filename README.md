@@ -16,7 +16,7 @@ and Zsolt Bagoly.
 
 ## Columns
 
-- `ra and dec`: GRB coordinatea.
+- `ra and dec`: GRB coordinates.
 - `z`: spectroscopic reference redshift.
 
 ## Scope
