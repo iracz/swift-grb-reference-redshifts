@@ -11,12 +11,12 @@ and Zsolt Bagoly.
 
 ## Contents
 
-- `reference_redshifts.csv`: GRB coordinate, spectroscopic
+- `reference_redshifts.csv`: GRB coordinatea, spectroscopic
   reference redshifts.
 
 ## Columns
 
-- `ra and dec`: GRB coordinate.
+- `ra and dec`: GRB coordinatea.
 - `z`: spectroscopic reference redshift.
 
 ## Scope
